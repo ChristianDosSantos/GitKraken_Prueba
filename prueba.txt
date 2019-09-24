@@ -1,4 +1,4 @@
 Esta é uma prova da utilizção de GitKraken com GitHub.
 Se tem agregado uma nova linha para comprovar o funcionamento das branchs.
-Versão 2.
+Versão 3.
 
